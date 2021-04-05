@@ -1,0 +1,161 @@
+absl-py==0.10.0
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596826740294/work
+astor==0.8.1
+astunparse==1.6.3
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+backcall==0.2.0
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+cached-property==1.5.2
+cachetools==4.2.1
+certifi==2020.12.5
+cffi @ file:///C:/ci/cffi_1606255201193/work
+chardet==4.0.0
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+contextlib2==0.6.0.post1
+cryptography @ file:///C:/ci/cryptography_1616769514516/work
+cycler==0.10.0
+Cython==0.29.21
+dataclasses==0.8
+decorator==4.4.2
+defusedxml==0.6.0
+dill==0.3.3
+dm-tree==0.1.5
+entrypoints==0.3
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask-Cors==3.0.10
+Flask-Script==2.0.6
+flatbuffers==1.12
+future==0.18.2
+gast==0.3.3
+gin-config==0.4.0
+google-api-core==1.26.1
+google-api-python-client==2.0.2
+google-auth==1.28.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.3
+google-cloud-bigquery==2.13.0
+google-cloud-core==1.6.0
+google-crc32c==1.1.2
+google-pasta==0.2.0
+google-resumable-media==1.2.0
+googleapis-common-protos==1.53.0
+grpcio==1.32.0
+h5py==2.10.0
+httplib2==0.19.0
+idna==2.10
+imgviz==1.2.3
+importlib-metadata==3.3.0
+importlib-resources==5.1.2
+ipykernel==5.4.2
+ipython @ file:///C:/ci/ipython_1593446240034/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.2
+itsdangerous==1.1.0
+jedi @ file:///C:/ci/jedi_1608920799722/work
+Jinja2==2.11.2
+joblib==1.0.1
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-console==6.2.0
+jupyter-core @ file:///C:/ci/jupyter_core_1606149071529/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-widgets==1.0.0
+kaggle==1.5.12
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.1
+labelme==4.5.6
+lvis==0.5.3
+lxml==4.6.2
+Markdown==3.3.3
+MarkupSafe==1.1.1
+matplotlib==3.3.3
+mistune==0.8.4
+nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
+nbconvert @ file:///C:/ci/nbconvert_1601896775581/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1606153767164/work
+notebook @ file:///C:/ci/notebook_1608817471483/work
+numpy==1.19.3
+oauth2client==4.1.3
+oauthlib==3.1.0
+object-detection==0.1
+opencv-python==4.5.1.48
+opencv-python-headless==4.5.1.48
+opt-einsum==3.3.0
+packaging @ file:///tmp/build/80754af9/packaging_1607971725249/work
+pandas==1.1.5
+pandocfilters @ file:///C:/ci/pandocfilters_1605120535071/work
+parso==0.8.1
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.1.0
+prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
+promise==2.3
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+proto-plus==1.18.1
+protobuf==3.13.0
+psutil==5.8.0
+py-cpuinfo==7.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycocotools @ git+https://github.com/philferriere/cocoapi.git@2929bd2ef6b451054755dfd7ceb09278f935f7ad#subdirectory=PythonAPI
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments @ file:///tmp/build/80754af9/pygments_1607368905949/work
+PyMySQL @ file:///C:/ci/pymysql_1610464866457/work
+pyparsing==2.4.7
+PyQt5==5.15.2
+PyQt5-sip==12.8.1
+pyrsistent @ file:///C:/ci/pyrsistent_1600141799440/work
+python-dateutil==2.8.1
+python-slugify==4.0.1
+pytz==2021.1
+pywin32==300
+pywinpty==0.5.7
+PyYAML==5.3.1
+pyzmq==20.0.0
+qtconsole==5.0.1
+QtPy==1.9.0
+requests==2.25.1
+requests-oauthlib==1.3.0
+rsa==4.7.2
+scikit-learn==0.24.1
+scipy==1.5.4
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
+sentencepiece==0.1.95
+seqeval==1.2.2
+six==1.15.0
+split-folders==0.4.3
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.4.1
+tensorflow-addons==0.12.1
+tensorflow-datasets==4.2.0
+tensorflow-estimator==2.4.0
+tensorflow-gpu==2.4.1
+tensorflow-hub==0.11.0
+tensorflow-metadata==0.28.0
+tensorflow-model-optimization==0.5.0
+termcolor==1.1.0
+terminado==0.9.1
+testpath==0.4.4
+text-unidecode==1.3
+tf-models-official==2.4.0
+tf-slim==1.1.0
+threadpoolctl==2.1.0
+tornado @ file:///C:/ci/tornado_1606942379977/work
+tqdm==4.59.0
+traitlets==4.3.3
+typeguard==2.11.1
+typing-extensions==3.7.4.3
+uritemplate==3.0.1
+urllib3==1.26.4
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+widgetsnbextension==3.5.1
+wincertstore==0.2
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
