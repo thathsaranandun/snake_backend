@@ -10,8 +10,7 @@ A cross-platform web application for detecting endemic snakes in Sri Lanka using
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/SnakeFinder.git
-   cd SnakeFinder
+   git clone https://github.com/thathsaranandun/snake_backend.git
    ```
 2. Set up a virtual environment:
    ```sh
